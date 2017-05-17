@@ -77,7 +77,7 @@ for see instruction and command, send /help method in your bot.
 
 ## Developers
 
-### [open and edit by (sajjad_021)](https://t.me/sajjad_021)
+### [edit by (sajjad_021)](https://t.me/sajjad_021)
 ### [channel (tgMember)](https://t.me/tgMember)
 
 Enjoy Your tabchi Bot!
