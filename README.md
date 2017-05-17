@@ -3,6 +3,10 @@
 
 the best bot in telegram for broadcasting and add member. The open and decompile version of tabchi bot. base in new telegram-cli.
 
+
+<p align="center"> <img class="td" style="vertical-align: middle;" src="https://github.com/sajjad-021/KingPKG/blob/master/logo.jpg" alt="" width="500" height="260" /></p>
+
+
 ***
 
 [![https://github.com/tgMember/Tabchi](https://img.shields.io/badge/license-AGPL-blue.svg)](https://github.com/tgMember/Tabchi)
@@ -11,8 +15,6 @@ the best bot in telegram for broadcasting and add member. The open and decompile
 [![http://tgmember.cf](https://img.shields.io/badge/webpage-tgMember-ff69b4.svg)](http://tgmember.cf)
 
 [![https://t.me/tgMember](https://img.shields.io/badge/%F0%9F%92%AC_Telegram-tgMember-blue.svg)](https://t.me/tgMember)
-
-<p align="center"> <img class="td" style="vertical-align: middle;" src="https://memberplus.gq/tg2.png" alt="" width="500" height="260" /></p>
 
 TeleGram-CLI based broadcasting bot!
 
@@ -77,6 +79,5 @@ for see instruction and command, send /help method in your bot.
 
 ### [open and edit by (sajjad_021)](https://t.me/sajjad_021)
 ### [channel (tgMember)](https://t.me/tgMember)
-### [Developer](https://telegram.me/iTeam_IR)
 
 Enjoy Your tabchi Bot!
